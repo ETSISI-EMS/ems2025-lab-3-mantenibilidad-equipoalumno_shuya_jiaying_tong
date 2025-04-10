@@ -1,6 +1,4 @@
-:point_right: PUT YOUR CI BADGE HERE
-
-
+:point_right: [![Build](https://github.com/ETSISI-EMS/ems2025-lab-3-mantenibilidad-equipoalumno_shuya_jiaying_tong/actions/workflows/main.yml/badge.svg)](https://github.com/ETSISI-EMS/ems2025-lab-3-mantenibilidad-equipoalumno_shuya_jiaying_tong/actions/workflows/main.yml)
 
 # EMS-lab3 Maintainability
 
